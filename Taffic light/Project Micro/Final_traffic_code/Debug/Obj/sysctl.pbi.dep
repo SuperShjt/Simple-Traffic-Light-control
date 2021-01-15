@@ -1,0 +1,10 @@
+sysctl.pbi: D:\Micro\ Cods\Final_traffic\sysctl.c \
+  D:\Embedded\ IDE\arm\inc\c\stdbool.h D:\Embedded\ IDE\arm\inc\c\stdint.h \
+  D:\Embedded\ IDE\arm\inc\c\ycheck.h D:\Embedded\ IDE\arm\inc\c\yvals.h \
+  D:\Embedded\ IDE\arm\inc\c\DLib_Defaults.h \
+  D:\Embedded\ IDE\arm\inc\c\DLib_Config_Normal.h \
+  D:\Embedded\ IDE\arm\inc\c\DLib_Product.h D:\Tiva\inc/hw_ints.h \
+  D:\Tiva\inc/hw_nvic.h D:\Tiva\inc/hw_sysctl.h D:\Tiva\inc/hw_types.h \
+  D:\Tiva\inc/hw_flash.h D:\Tiva\driverlib/cpu.h \
+  D:\Tiva\driverlib/debug.h D:\Tiva\driverlib/interrupt.h \
+  D:\Tiva\driverlib/sysctl.h

@@ -1,0 +1,15 @@
+"D:\Embedded IDE\arm\bin\armproc.dll" 
+
+"D:\Embedded IDE\arm\bin\armlmiftdi.dll" 
+
+"D:\Micro Cods\Final_traffic\Debug\Exe\TrafficLights.out" 
+
+--plugin="D:\Embedded IDE\arm\bin\armbat.dll" 
+
+--device_macro="D:\Embedded IDE\arm\config\debugger\TexasInstruments\TM4C123.dmac" 
+
+--flash_loader="D:\Embedded IDE\arm\config\flashloader\TexasInstruments\FlashTC4_H6_o.board" 
+
+
+
+

@@ -1,0 +1,7 @@
+startup_ewarm.pbi: D:\Micro\ Cods\Final_traffic\startup_ewarm.c \
+  D:\Embedded\ IDE\arm\inc\c\stdint.h D:\Embedded\ IDE\arm\inc\c\ycheck.h \
+  D:\Embedded\ IDE\arm\inc\c\yvals.h \
+  D:\Embedded\ IDE\arm\inc\c\DLib_Defaults.h \
+  D:\Embedded\ IDE\arm\inc\c\DLib_Config_Normal.h \
+  D:\Embedded\ IDE\arm\inc\c\DLib_Product.h D:\Tiva\inc/hw_nvic.h \
+  D:\Tiva\inc/hw_types.h

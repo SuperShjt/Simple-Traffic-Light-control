@@ -1,0 +1,14 @@
+main.pbi: D:\Micro\ Cods\Final_traffic\GPTM.h \
+  D:\Micro\ Cods\Final_traffic\tm4c123gh6pm.h D:\Tiva\driverlib\timer.h \
+  D:\Tiva\driverlib\uart.h D:\Tiva\driverlib\adc.h \
+  D:\Tiva\driverlib\systick.h D:\Tiva\driverlib\interrupt.h \
+  D:\Tiva\driverlib\sysctl.h D:\Tiva\inc\hw_memmap.h \
+  D:\Tiva\driverlib\pin_map.h D:\Tiva\driverlib\gpio.h \
+  D:\Tiva\inc\tm4c1294ncpdt.h D:\Tiva\driverlib\ssi.h \
+  D:\Tiva\inc\hw_types.h D:\Tiva\inc\hw_ssi.h \
+  D:\Embedded\ IDE\arm\inc\c\stdbool.h \
+  D:\Embedded\ IDE\arm\inc\c\DLib_Product.h \
+  D:\Embedded\ IDE\arm\inc\c\DLib_Config_Normal.h \
+  D:\Embedded\ IDE\arm\inc\c\DLib_Defaults.h \
+  D:\Embedded\ IDE\arm\inc\c\yvals.h D:\Embedded\ IDE\arm\inc\c\ycheck.h \
+  D:\Embedded\ IDE\arm\inc\c\stdint.h D:\Micro\ Cods\Final_traffic\main.c
